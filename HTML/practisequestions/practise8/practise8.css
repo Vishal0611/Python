@@ -1,0 +1,25 @@
+.gg{
+    border: 5px solid #555;
+    border-style: double;
+}
+form{
+    border: 2px solid;
+    border-radius: 35px;
+    border-style: double;
+    border-width: 6px;
+    width: 410px;
+    background-color: #FFF0EF;
+    border-color: #FF8BA0;
+    color: red;
+}
+.form input {
+    width: 290px;
+    height: 15px;
+    margin-bottom: 15px;
+    padding: 10px;
+    border-radius: 20px;
+    text-align: center;
+    font-size: large;
+    border-color: #FF8BA0;
+    background-image: url(/pngtree-geometric-gradient-creative-blood-donation-poster-background-material-image_134137.jpg);
+}

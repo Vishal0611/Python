@@ -1,0 +1,11 @@
+#gop:hover{
+    color: aqua;
+}
+#gop:visited{
+    color: red;
+    text-decoration: dotted;
+}
+#gege:hover{
+    color: black;
+    text-decoration: overline;
+}

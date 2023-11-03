@@ -1,0 +1,10 @@
+#outer{
+    font-size: 25px;
+}
+#inner{
+    font-size:10px;
+}
+body{
+    background-image: url(HTML/practisequestions/de.jpg);
+    background-size: 1000px;
+}

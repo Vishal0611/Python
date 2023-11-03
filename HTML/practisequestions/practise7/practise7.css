@@ -1,0 +1,8 @@
+.N{
+    height: 40px;
+    width: 60px;
+    border-radius: 50%;
+    background-color: green;
+    border-bottom-color: blue;
+    border-style: double;
+}   
